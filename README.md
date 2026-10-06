@@ -7,7 +7,7 @@ I'm **Vikas V**, a B.Tech graduate in **Artificial Intelligence and Data Science
 ## About Me
 
 - 🎓 B.Tech – Artificial Intelligence and Data Science
-- 🐍 Interested in Python & Django development
+-  Interested in Python & Django development
 - 🌐 Interested in Web Application Development and REST APIs
 - 🗄️ Familiar with SQL and database concepts
 - 🤖 Interested in AI, Machine Learning, and Generative AI
