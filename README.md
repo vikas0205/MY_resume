@@ -35,4 +35,4 @@ You can view or download my latest resume from this repository.
 - **GitHub:** https://github.com/vikas0205
 - **Email:** vikas.v0205@gmail.com
 
-Thanks for visiting my profile! 🙂
+Thanks for visiting my profile! 
